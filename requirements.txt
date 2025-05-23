@@ -1,0 +1,7 @@
+bokeh
+pandas
+numpy
+scikit-learn
+tensorflow
+prophet
+openpyxl
